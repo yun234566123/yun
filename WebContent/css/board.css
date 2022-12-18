@@ -1,0 +1,35 @@
+table {
+  border-collapse: collapse; /*인접 테두리 공유*/
+}
+
+.table thead tr th,
+.table tbody tr td {
+  border: 1px solid gray;
+  text-align: center;
+  padding: 5px;
+}
+
+table tr td a {
+  text-decoration: none;
+  color: black;
+}
+
+table tr td #writeBtn,
+table tr td #logoutBtn {
+  margin-top: 10px;
+  margin-right: 5px;
+}
+
+.selectBtn .board {
+  display: flex;
+}
+
+.selectBtn .board .beforeBtn,
+.selectBtn .board .nextBtn {
+  margin-right: 5px;
+}
+
+.selectBtn .board button{
+	margin-right: 5px;
+}
+

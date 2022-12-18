@@ -1,0 +1,22 @@
+.view,
+.viewBtn,
+.write{
+  padding: 0px;
+}
+
+span .viewAction {
+  display: flex;
+}
+
+.write .writeAction .btn{
+	display: flex;
+}
+
+.writeAction .write tr td .btnWrite,
+.writeAction .write tr td .btnCancle,
+.viewBtn tr td .btn {
+	margin-right: 5px;
+	margin-top: 10px;
+}
+
+

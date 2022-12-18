@@ -1,0 +1,19 @@
+body .joinAction ul {
+  padding: 0;
+}
+
+body .joinAction li {
+  list-style: none;
+}
+
+body .joinAction li {
+  padding-bottom: 10px;
+}
+
+body .joinAction span{
+	display: flex;
+}
+
+body .joinAction span li{
+	margin-right: 5px;
+}
