@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "윤영석"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "20517110 컴퓨터sw"
+  location         : "서울시 송파구"
+  email            : "elysia462@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
