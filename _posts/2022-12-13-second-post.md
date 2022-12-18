@@ -4,9 +4,4 @@ date: 2022-12-13 11:26:28 -0400
 categories: 공지
 ---
 
-![image](/image/20517110yun.jpg)
-
-
-https://github.com/yun234566123/yun/issues/1#issue-1501937777
-
 ![43928304](https://user-images.githubusercontent.com/120935642/208307685-4ab2487d-161c-4ce2-97b9-486e535f75a6.png)
