@@ -5,3 +5,6 @@ categories: 공지
 ---
 
 ![image](/image/20517110yun.jpg)
+
+
+https://github.com/yun234566123/yun/issues/1#issue-1501937777
