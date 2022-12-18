@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "윤영석"
-  avatar           : /20517110yun.jpg  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/image/20517110yun.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "20517110 컴퓨터sw"
   location         : "서울시 송파구"
   email            : "elysia462@gmail.com"
